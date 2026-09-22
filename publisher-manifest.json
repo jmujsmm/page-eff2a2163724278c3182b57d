@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "47a8d4e75b6c704c38d2d991",
+  "owner": "jmujsmm",
+  "repo": "page-eff2a2163724278c3182b57d",
+  "title": "HEY",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "eff2a2163724278c3182b57d",
+      "a": "HEY",
+      "b": "机场官网线路发布页",
+      "entity": "HEY",
+      "brand": "HEY",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e899307f344a02f09437a342b663eba2e5615c7041c330d8a021b43171e7400a",
+      "content": {
+        "primary_entity": "HEY",
+        "keyword1": "HEY",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "HEY 支持 Clash、Surge、Shadowrocket、v2rayN 等常用客户端，按设备选择对应版本导入订阅即可。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选择适合的套餐，参照客户端文档完成订阅配置，即可在常用设备上使用 HEY。",
+          "AI_CLOSING_TITLE": "开始使用 HEY",
+          "AI_DESCRIPTION": "，HEY 面向海外网络加速场景，提供基础版、旗舰版与团队版三档订阅。基础版每月 15 元含 100GB 流量与 3 台设备；旗舰版每月 35 元含 300GB 流量、5 台设备与 IPLC 专线游戏加速优化；团队版每月 85 元含 1000GB 流量与 20 台设备。按年付可节省两个月费用，用户可按设备数量与流量需求选择。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。如果手机、电脑、平板同时使用，建议从旗舰版起步，避免频繁切换设备登录。",
+          "AI_FAQ_ANSWER_2": "基础版每月 15 元、旗舰版每月 35 元、团队版每月 85 元。按年付分别仅需 150 元、350 元与 850 元，相当于十个月价格使用十二个月。",
+          "AI_FAQ_ANSWER_3": "旗舰版和团队版均提供流媒体解锁与加速优化，其中旗舰版包含 IPLC 专线游戏加速，团队版提供 VIP 专属高带宽节点，具体以节点实际表现为准。",
+          "AI_FAQ_ANSWER_4": "将订阅链接导入 Clash、Surge、Shadowrocket 或 v2rayN 等客户端，更新节点列表后选择合适线路即可连接，各客户端配置方法可参考其使用文档。",
+          "AI_FAQ_ANSWER_5": "月付适合短期尝试，年付折算每月更低。若已确定长期使用，直接选择年付套餐更划算，旗舰版年付还可享受优先工单支持。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "月付和年付价格分别是多少？",
+          "AI_FAQ_QUESTION_3": "哪个套餐支持流媒体和游戏加速？",
+          "AI_FAQ_QUESTION_4": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "如何选择适合自己的付费周期？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量与订阅周期出发，三档套餐覆盖个人到团队的不同使用强度。",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，适合单人或双人轻量使用，支持 3 台设备同时在线。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，包含 IPLC 专线游戏加速优化与原生流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，提供 VIP 专属高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "均衡性能",
+          "AI_FEATURE_TITLE_3": "团队共享",
+          "AI_GUIDE_INTRO": "从确认需求到完成配置，三个步骤即可开始使用 HEY。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "HEY 提供基础版、旗舰版与团队版三档订阅，覆盖不同设备数量与流量需求。按年付可节省两个月费用，旗舰版与团队版面向流媒体、游戏加速及团队共享场景设计。",
+          "AI_HERO_SUBTITLE": "三档订阅，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "三档套餐，按需选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付更划算",
+          "AI_PLANS_INTRO": "基础版每月 15 元含 100GB 与 3 台设备；旗舰版每月 35 元含 300GB、5 台设备与 IPLC 专线；团队版每月 85 元含 1000GB 与 20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与常用设备数量，从基础版、旗舰版和团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，查看对应版本是否满足当前系统要求。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，依照所选客户端的文档导入并更新节点，即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "HEY 海外加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qhigz.cn",
+    "host": "qhigz.cn"
+  },
+  "file_hashes": {
+    "index.html": "15c8067a913c9a918ebeeee991ba585e19a09883c4281b08b141116fe644ca05",
+    "sitemap.xml": "96e87a2737bdc8fff9af349a9a885097431c62eb23b719344a64ea88284b7f6c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a58f91d9c7b65cf1a26bc5fae392ac91d3afb0279333aebd752938bab5804308",
+    "robots.txt": "cd241e734e2ab51193f8e4b114003e8630de7a08c37f78d7c9d70b699512cb3e",
+    "20987224ca74c850e8fa97fca23946cf.txt": "1dd1bf7cb49d6c94eb020244a849a849a5ac28af4c4c5f01e096822816e8b8c6"
+  },
+  "revision": "fa070b8ee6d35f7d028e0c2738183199905015a56b7abfc214ea8f920a28db45"
+}
